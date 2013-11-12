@@ -15,7 +15,6 @@
         <source src="<?php echo base_url();?>videos/상속자들1.mp4" type="video/mp4">
     </video>
     
-    <p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
 </div>
 
 </body>
