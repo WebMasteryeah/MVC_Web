@@ -70,15 +70,18 @@
 	<h1>Welcome to Movie World!</h1>
 
 	<div id="body">
-		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
-
-		<p>If you would like to edit this page you'll find it located at:</p>
-		<code>application/views/welcome_message.php</code>
-
-		<p>The corresponding controller for this page is found at:</p>
-		<code>application/controllers/welcome.php</code>
-
-		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
+        <h2>The heir</h2>
+        <ul>
+            <li>Ep1</li>
+            <li>Ep2</li>
+            <li>Ep3</li>
+            <li>Ep4</li>
+            <li>Ep5</li>
+            <li>Ep6</li>
+            <li>Ep8</li>
+            <li>Ep9</li>
+            <li>Ep10</li>
+        </ul>
 	</div>
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
